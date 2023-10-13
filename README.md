@@ -1,3 +1,3 @@
 # python-tut
 
-## Ste 1: Added branch
+## Step 1: Added branch
